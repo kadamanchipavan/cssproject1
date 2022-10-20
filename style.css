@@ -1,0 +1,132 @@
+.head{
+    top: 0px;
+    width: 100vw;
+    height: 80px;
+    background-color: white;
+    border: 2px solid white;
+    box-shadow: 1px 1px aqua;
+}
+h1{
+    top: 0px;
+}
+.flex-container{
+    display: flex;
+    flex-flow: row;
+    background-color: #7b7b7b29;
+    width: 100vw;
+    height: 700px;
+}
+.flex-item{
+    position: absolute;
+    top: 100px;
+    right: 200px;
+    height: 50px;
+}
+.flex-item1{
+    position: relative;
+    top: 100px;
+    left: 100px;
+    width: 250px;
+    height: 250px;
+    border-radius: 5px;
+    background-color: white;
+    box-shadow:2px 2px lightskyblue;
+}
+.flex-item2{
+    position: relative;
+    top: 100px;
+    left: 300px;
+    width: 250px;
+    height: 250px;
+    border-radius: 5px;
+    background-color: white;
+    box-shadow:2px 2px lightskyblue;
+}
+.flex-item3{
+    position: relative;
+    top: 100px;
+    left: 500px;
+    width: 250px;
+    height: 250px;
+    border-radius: 5px;
+    background-color: white;
+    box-shadow:2px 2px lightskyblue;
+}
+.flex-item4{
+    position: relative;
+    top: 400px;
+    right: 650px;
+    width: 250px;
+    height: 250px;
+    border-radius: 5px;
+    background-color: white;
+    box-shadow:2px 2px  lightskyblue;
+}
+.flex-item5{
+    position: relative;
+    top: 400px;
+    right: 450px;
+    width: 250px;
+    height: 250px;
+    border-radius: 5px;
+    background-color: white;
+    box-shadow:2px 2px lightskyblue;
+}
+iframe{
+    width: 100vw;
+    height: 1000px;
+    filter: blur(2px);
+}
+.flex-item6{
+    position: relative;
+    top: 120px;
+    left: 450px;
+    background-color: white;
+    width: 300px;
+    height: 300px;
+    
+}
+.back{
+    position: relative;
+    top: 60px;
+    left: 650px;
+}
+.addtask{
+    position: relative;
+    top: 60px;
+    left: 700px;
+    text-align: center;
+
+}
+.popup{
+    width: 400px;
+    height: 250px;
+    border-radius: 5px;
+    position: absolute;
+    top: 350px;
+    left: 500px;
+    background-color: white;
+    box-shadow:2px 2px lightskyblue;
+    text-align: center;
+}
+.popup1{
+    width: 400px;
+    height: 250px;
+    border-radius: 5px;
+    position: absolute;
+    top: 250px;
+    left: 600px;
+    background-color: white;
+    box-shadow:2px 2px lightskyblue;
+    text-align: center;
+}
+.box{
+    width: 130px;
+    height: 30px;
+    background-color: aqua;
+    border-radius: 2px;
+    position: absolute;
+    top: 150px;
+    left: 200px;
+    text-align: center;
+}
